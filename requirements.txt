@@ -1,0 +1,5 @@
+numpy
+faiss-cpu
+ollama
+PyPDF2
+streamlit
